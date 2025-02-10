@@ -2,7 +2,7 @@ Code and data used in a dissertation for a Master's degree at PJATK.
 Thesis title is "Evaluating Database and Indexing Performance on the Salesforce Platform" / "Pomiar wydajności bazy danych i indeksów na platformie Salesforce"
 
 
-
+Data to insert and with results are available at https://huggingface.co/datasets/zanstaszek9/masters-dissertations-salesforce-indexes
 
 
 
