@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+  <description>To include indexed fields on objects instead of using Profiles</description>
+  <fieldPermissions>
+    <editable>true</editable>
+    <field>Test_Custom_Object__c.Email_required_externalId__c</field>
+    <readable>true</readable>
+  </fieldPermissions>
+  <hasActivationRequired>false</hasActivationRequired>
+  <label>IndexingTest</label>
+</PermissionSet>

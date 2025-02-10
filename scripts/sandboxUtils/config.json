@@ -1,0 +1,10 @@
+﻿{
+    "defaultOrgLoginUrl":  "https://login.salesforce.com",
+    "username":  "username@force.com",
+    "password":  "",
+    "securityToken":  "",
+    "domainUrl":  "https://domain.my.salesforce.com",
+    "sessionId":  "",
+    "sessionIdRetrieval":  "",
+    "Path":  "C:\\path\\to\\this\\config\\file\\config.json"
+}

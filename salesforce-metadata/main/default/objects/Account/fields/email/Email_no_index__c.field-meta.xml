@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Email_no_index__c</fullName>
+    <type>Email</type>
+    <label>Email no index</label>
+    <externalId>false</externalId>
+    <required>false</required>
+    <unique>false</unique>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
+
+
+
+
+

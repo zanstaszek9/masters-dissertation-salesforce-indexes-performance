@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>Text_email_all_case_insensitive__c</fullName>
+  <type>Text</type>
+  <length>80</length>
+  <label>Text email all case insensitive</label>
+  <externalId>true</externalId>
+  <required>true</required>
+  <unique>true</unique>
+  <caseSensitive>false</caseSensitive>
+  <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
+
+        Text_email_all_case_insensitive__c
+        Text_email_all_case_sensitive__c
+        Text_email_externalId__c
+        Text_email_externalId_nulls__c
+        Text_email_no_index__c
+        Text_email_no_index_nulls__c
+        Text_email_required__c
+        Text_email_required_externalId__c
+        Text_email_unique_case_insensitive__c
+        Text_email_unique_case_sensitive__c
+        Text_email_unique_externalId_case_insen__c
+        Text_email_unique_externalId_case_sensi__c
+

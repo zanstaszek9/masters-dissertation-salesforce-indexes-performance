@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Number_unique_required__c</fullName>
+    <type>Number</type>
+    <precision>18</precision>
+    <scale>0</scale>
+    <label>Number unique required</label>
+    <externalId>false</externalId>
+    <required>true</required>
+    <unique>true</unique>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
+
+
+

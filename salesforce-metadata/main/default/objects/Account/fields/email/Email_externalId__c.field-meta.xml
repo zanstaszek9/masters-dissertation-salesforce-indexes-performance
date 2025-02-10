@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Email_externalId__c</fullName>
+    <type>Email</type>
+    <label>Email externalId nulls</label>
+    <externalId>true</externalId>
+    <required>false</required>
+    <unique>false</unique>
+    <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+  <fullName>Text_unique_externalId_insen__c</fullName>
+  <type>Text</type>
+  <length>60</length>
+  <label>Text unique externalId case insen</label>
+  <externalId>true</externalId>
+  <required>false</required>
+  <unique>true</unique>
+  <caseSensitive>false</caseSensitive>
+  <trackFeedHistory>false</trackFeedHistory>
+</CustomField>
+
+
